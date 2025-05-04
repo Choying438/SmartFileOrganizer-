@@ -1,0 +1,13 @@
+Make sure Python is installed:
+
+pkg install python
+Install dependencies:
+
+
+pip install -r requirements.txt
+If no requirements.txt, dependencies are likely just built-in Python modules.
+
+🔧 Usage
+Run the tool:
+
+python organizer_checker.py
